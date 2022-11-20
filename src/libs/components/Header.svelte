@@ -1,1 +1,7 @@
-<h2>Header component</h2> 
+<script>
+  import Navbar from '../components/Navbar.svelte'
+</script>
+
+<header>
+  <Navbar /> 
+</header> 
